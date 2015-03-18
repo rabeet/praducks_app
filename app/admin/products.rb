@@ -1,4 +1,5 @@
 ActiveAdmin.register Products do
+  permit_params 
 
 
   # See permitted parameters documentation:
